@@ -101,7 +101,7 @@
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1>WELCOME TO LIVESUGAR</h1>
-							<h2>Made for sweet lovers<a href="http://gettemplates.co/" target="_blank">gettemplates.co</a></h2>
+							<h2>Made for sweet lovers</h2>
 							<p>
 								<a href="#" class="btn btn-primary btn-lg">Get Started</a> 
 								<a href="#" class="btn btn-white btn-outline btn-lg">Download</a></p>
